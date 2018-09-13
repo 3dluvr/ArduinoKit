@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{0004CA1E-0F09-090C-0028-019FBAFB63AB}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ArduinoKitExample",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"CoreUObject"
+			]
+		}
+	]
+}
